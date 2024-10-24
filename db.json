@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Orange",
+            "img": "https://media.istockphoto.com/id/185284489/vi/anh/cam.jpg?s=612x612&w=0&k=20&c=DkoRbWYJ9AoVMQbClQZxwiztckRmsgM66BvIed3fU7g=",
+            "price": 1.50,
+            "isFavorite": false,
+            "rating": 4.5,
+            "description": "Fresh and juicy orange, high in vitamin C."
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "img": "https://image.tienphong.vn/w890/Uploaded/2024/rkznae/2019_10_16/1988905_GQFF.jpg",
+            "price": 0.50,
+            "isFavorite": false,
+            "rating": 4.2,
+            "description": "Ripe banana rich in potassium and perfect for snacking."
+        },
+        {
+            "id": 3,
+            "name": "Kiwi",
+            "img": "https://media.istockphoto.com/id/503143534/vi/anh/qu%E1%BA%A3-kiwi-tr%C3%AAn-n%E1%BB%81n-tr%E1%BA%AFng.jpg?s=612x612&w=0&k=20&c=ckjlXizy57vocbVtfVxlyAN2Hsn7LzGJ7BrqfsTxqZQ=",
+            "price": 2.00,
+            "isFavorite": false,
+            "rating": 4.8,
+            "description": "Sweet and tangy kiwi, packed with nutrients."
+        },
+        {
+            "id": 4,
+            "name": "Avocado",
+            "img": "https://www.shutterstock.com/image-photo/avocado-fruit-isolated-photo-whole-600nw-2509595199.jpg",
+            "price": 2.50,
+            "isFavorite": false,
+            "rating": 4.7,
+            "description": "Creamy avocado, great for salads and toast."
+        },
+        {
+            "id": 5,
+            "name": "Lemon",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lemon.jpg",
+            "price": 0.80,
+            "isFavorite": false,
+            "rating": 4.5,
+            "description": "Juicy lemon, perfect for adding flavor to dishes."
+        },
+        {
+            "id": 6,
+            "name": "Strawberry",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-_Mdr-r2FMrjX6kp0pBClYDXxW2nb9wZKQ&s",
+            "price": 3.00,
+            "isFavorite": false,
+            "rating": 4.9,
+            "description": "Sweet and juicy strawberries, perfect for desserts."
+        },
+        {
+            "id": 7,
+            "name": "Pineapple",
+            "img": "https://www.shutterstock.com/image-photo/ripe-pineapple-slices-isolated-on-600nw-2447619771.jpg",
+            "price": 1.25,
+            "isFavorite": false,
+            "rating": 4.3,
+            "description": "Fresh pineapple, perfect for tropical desserts."
+        },
+        {
+            "id": 8,
+            "name": "Mango",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_9ZXBBWOLoWEKLy31znz_YobCY_HJcflcg&s",
+            "price": 1.75,
+            "isFavorite": false,
+            "rating": 4.7,
+            "description": "Sweet and juicy mango, a tropical delight."
+        }
+    ]
+}
